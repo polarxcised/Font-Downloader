@@ -40,7 +40,7 @@ pip install pyfiglet tqdm colorama requests
 Run the script with Python:  
 
 ```sh
-python font_downloader.py
+python font.py
 ```
 
 Enter font names or Google Fonts links, separated by commas:  
