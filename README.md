@@ -1,6 +1,6 @@
 # **Google Font Downloader & Auto-Installer**  
 ### **The Ultimate Google Fonts CLI Tool**  
-**</> by Ansh Kabra**  
+**</> by polarxcised**  
 
 ---
 
@@ -96,4 +96,4 @@ This project is licensed under the Unlicense.
 
 ## **Author**  
 
-**</> by Ansh Kabra**
+**</> by polarxcised**
