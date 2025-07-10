@@ -116,7 +116,7 @@ if __name__ == "__main__":
     elevate_to_admin()  
 
     print("\n" + Fore.BLUE + pyfiglet.figlet_format("Google Font Downloader", font="slant"))
-    print(Fore.LIGHTYELLOW_EX + " </> by Ansh Kabra")
+    print(Fore.LIGHTYELLOW_EX + " </> by polarxcised")
     print(Fore.LIGHTBLACK_EX + "=" * 50)
 
     bulk = input(Fore.CYAN + "📥 Enter font names or Google Fonts links (comma-separated): ").strip()
